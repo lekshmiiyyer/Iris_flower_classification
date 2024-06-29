@@ -1,7 +1,7 @@
 # Iris_flower_classification
 ![image](https://github.com/lekshmiiyyer/Iris_flower_classification/assets/108746697/af176837-7403-4b32-9166-add46a8b0e00)
 . 
-#Problem Statement
+# Problem Statement
 The iris flower, scientifically known as Iris, is a distinctive genus of flowering plants. Within this genus, there are three primary species: Iris setosa, Iris versicolor, and Iris virginica. These species exhibit variations in their physical characteristics, particularly in the measurements of their sepal length, sepal width, petal length, and petal width.
 
 Objective:
@@ -15,7 +15,7 @@ Key Measurements: The essential characteristics used for classification include 
 Machine Learning Model: The project involves the creation and training of a machine learning model to accurately classify iris flowers based on their measurements.
 This project's significance lies in its potential to streamline and automate the classification of iris species, which can have broader applications in botany, horticulture, and environmental monitoring.
 
-#Project Summary
+# Project Summary
 Project Description:
 
 The Iris Flower Classification project focuses on developing a machine learning model to classify iris flowers into their respective species based on specific measurements. Iris flowers are classified into three species: setosa, versicolor, and virginica, each of which exhibits distinct characteristics in terms of measurements.
