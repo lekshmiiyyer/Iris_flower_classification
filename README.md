@@ -30,4 +30,13 @@ Iris flowers have three species: setosa, versicolor, and virginica.
 These species can be distinguished based on measurements such as sepal length, sepal width, petal length, and petal width.
 The project involves training a machine learning model on a dataset that contains iris flower measurements associated with their respective species.
 The trained model will classify iris flowers into one of the three species based on their measurements.
-#Results
+# Results
+Classification Report:
+            Classifier  Accuracy  Precision    Recall  F1-score
+0                  KNN  0.966667   0.969565  0.966667  0.966498
+1  Logistic Regression  0.983333   0.984167  0.983333  0.983344
+2                  SVM  0.983333   0.984167  0.983333  0.983344
+3        Decision Tree  0.966667   0.969841  0.966667  0.966667
+
+# Conclusion
+In summary, based on these results, both Logistic Regression and SVM are strong candidates for the final model choice, depending on additional factors such as computational efficiency, interpretability, and specific business or application requirements.
